@@ -1,0 +1,4 @@
+Boas Vindas!
+Nesta trilha, você conseguirá se aprofundar em Python - desde noções básicas, até conceitos mais avançados. Este
+conteúdo é ideal para que você utilizar esta linguagem de programação para Análise de Dados. Você também poderá consumir
+conteúdos opcionais que podem aumentar seu repertório de conhecimentos sobre dados.
