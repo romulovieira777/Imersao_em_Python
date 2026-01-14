@@ -1,0 +1,4 @@
+O que você irá aprender aqui?
+
+Aqui, vamos te ensinar a utilizar o Python, uma das principais linguagens de programação para Análise de Dados, com o
+objetivo de que você consiga implementa o que iremos aprender durante o restante da trilha.
