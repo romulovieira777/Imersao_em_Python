@@ -1,0 +1,8 @@
+Conceitos Iniciais - Banco de Dados
+https://www.alura.com.br/artigos/banco-de-dados?srsltid=AfmBOoqSVF1GW-TLFD6oKWONgKioybDadpje1wQnUD33Kaxn30VpZa1r
+
+Conceitos Iniciais - Entidades e Chaves
+https://www.alura.com.br/artigos/banco-dados-relacionais-conceitos-terminologias-ferramentas?srsltid=AfmBOopSRH8zm0K3DukHaPDNCoZ4uEqNPad8WqyS3Wb2b5ZTA_sY42-f
+
+Conceitos Iniciais - Relacionamentos
+https://www.devmedia.com.br/conceitos-fundamentais-de-banco-de-dados/1649
