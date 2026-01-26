@@ -6,3 +6,6 @@ https://www.alura.com.br/artigos/banco-dados-relacionais-conceitos-terminologias
 
 Conceitos Iniciais - Relacionamentos
 https://www.devmedia.com.br/conceitos-fundamentais-de-banco-de-dados/1649
+
+Tipos de Dados em Bancos de Dados
+https://www.alura.com.br/artigos/banco-de-dados?srsltid=AfmBOoo0bjkCqKsuUaBYqQNiy1QYtVMmFKH41P8cA9A4Zfqe-bHSuLQm
